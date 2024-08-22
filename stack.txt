@@ -1,0 +1,10 @@
+* Stack with respect to styling, top-down
+
+indent-bars--blank-string
+indent-bars--draw-line
+indent-bars--display | indent-bars--display-blank-lines as indent-bars--display-function*
+indent-bars--draw-all-bars-between
+indent-bars--fontify
+indent-bars--setup-font-lock
+indent-bars-setup
+indent-bars-mode
